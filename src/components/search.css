@@ -1,0 +1,21 @@
+#searchicon{
+    width: 1rem;
+    height: 1rem;
+}
+input{
+    width: 50%;
+    height:1.2rem
+}
+.bookimage{
+    margin: 5rem;
+    width: 15%;
+    height: 15%;
+}
+.bookimage:hover{
+    margin: 5rem;
+    width: 20%;
+    height: 20%;
+}
+#render{
+    background-color:antiquewhite;
+}
